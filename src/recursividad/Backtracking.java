@@ -111,5 +111,7 @@ public class Backtracking {
 		
 		System.out.println(camino(laberinto, 0, 0, visitado));
 		System.out.println(laberinto);
+		System.out.println("Ya estudié recursividad");
 	}
+	
 }
